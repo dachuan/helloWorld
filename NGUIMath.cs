@@ -7,6 +7,8 @@
 //add useless comments
 //blah blah blah
 
+// second comment here
+// do it  
 
 using UnityEngine;
 using System;
